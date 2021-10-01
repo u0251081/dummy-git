@@ -7,6 +7,6 @@ June
 July
 August
 September
-October
-November
-December
+October // tenth month
+November // eleventh month
+December // twelfth month
