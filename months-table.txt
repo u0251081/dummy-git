@@ -1,6 +1,6 @@
-January
-February
-March
+January // first month
+February // second month
+March // third month
 April
 May
 June
