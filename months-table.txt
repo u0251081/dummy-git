@@ -7,6 +7,6 @@ June // what if duplicate work?
 July
 August
 September
-October
-November
-December
+October // tenth month
+November // eleventh month
+December // twelfth month
