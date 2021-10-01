@@ -4,9 +4,9 @@ March // third month
 April // forth month
 May // fifth month
 June // sixth month
-July
-August
-September
+July // seventh month
+August // eighth month
+September // ninth month
 October // tenth month
 November // eleventh month
 December // twelfth month
