@@ -2,8 +2,8 @@ January // first month
 February // second month
 March // third month
 April // forth month
-May // fivth month
-June // what if duplicate work?
+May // fifth month
+June // sixth month
 July
 August
 September
